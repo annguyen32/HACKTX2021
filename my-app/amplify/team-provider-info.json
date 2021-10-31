@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pantrychef-dev-202716-authRole",
+      "UnauthRoleArn": "arn:aws:iam::874753938123:role/amplify-pantrychef-dev-202716-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::874753938123:role/amplify-pantrychef-dev-202716-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-pantrychef-dev-202716-deployment",
+      "UnauthRoleName": "amplify-pantrychef-dev-202716-unauthRole",
+      "StackName": "amplify-pantrychef-dev-202716",
+      "StackId": "arn:aws:cloudformation:us-east-2:874753938123:stack/amplify-pantrychef-dev-202716/b0486360-39e9-11ec-adb1-06c6f1121a64",
+      "AmplifyAppId": "d1fgpzydamg1pw"
+    }
+  }
+}
